@@ -1,0 +1,9 @@
+./ax_post_synthesis/top_genconv_2x2.sv
+./ax_post_synthesis/top_genconv.sv
+./ax_pre_synthesis/top_genconv_2x2.sv
+./ax_pre_synthesis/top_genconv.sv
+./baseline/top_genconv_2x2.sv
+./baseline/top_genconv.sv
+./ax_post_synthesis/top_gauss.sv
+./ax_pre_synthesis/top_gauss.sv
+./baseline/top_gauss.sv
